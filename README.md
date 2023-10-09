@@ -15,9 +15,7 @@
   1. La permanencia de un hombre y una mujer dentro del baño será de 1/4 de segundo. Y que una vez salen del baño, no volverán a entrar.
   1. Simula el funcionamiento de los Servicios Públicos.
 
-
-https://github.com/dfleper/ThreadServiciosPublicos/assets/124105822/4ecabeb9-ce91-4dbb-85a2-aba7d7c9ddb7
-
+https://github.com/dfleper/ThreadServiciosPublicos/assets/124105822/df0d873a-7512-46d0-976d-d67e3ef2e55d
 
 - #### [Spring Tool Suite 4](https://spring.io/tools)
 - #### [OpenJDK 17.0.8.1+1](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/)
