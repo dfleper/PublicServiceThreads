@@ -1,7 +1,7 @@
-# ThreadServiciosPublicos
+# PublicServiceThreads
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/ThreadServiciosPublicos?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/ThreadServiciosPublicos?color=blue&label=last-commit&logo=github&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/PublicServiceThreads?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/PublicServiceThreads?color=blue&label=last-commit&logo=github&logoColor=white)
 
 **Thread Exercise in Java.**
   1. Two baths are planned to be built; one for men and one for women with capacity each of a maximum of 10 people.
